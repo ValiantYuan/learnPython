@@ -1,6 +1,7 @@
 #-*- coding: utf-8 -*-
 #add this comment in test-git branch
-#add this to test conflict
+#fix conflict
+
 import time, threading
 
 def loop():
