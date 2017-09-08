@@ -1,6 +1,7 @@
 #-*- coding: utf-8 -*-
 #add this comment in test-git branch
-#this is master branch
+#fix conflict
+
 import time, threading
 
 def loop():
